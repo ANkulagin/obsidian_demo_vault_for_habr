@@ -1,4 +1,10 @@
-## Template -> ZOTERO
+## Obsidian demo vault 
+
+> Данное хранилище создано как дополнение к статье ->
+
+***
+
+## Cheat sheet Template -> ZOTERO
 
 - **Gray** → многострочный код-блок (```)
 - **Magenta** → заголовок уровня 1 (`#`)
