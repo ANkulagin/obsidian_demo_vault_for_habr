@@ -1,0 +1,34 @@
+.customZot-Yellow {
+    background-color: rgba(255, 204, 0, 0.212) !important;
+}
+
+.customZot-Green {
+    background-color: rgba(0, 255, 47, 0.215) !important;
+}
+
+.customZot-Blue {
+    background-color: rgba(0, 0, 255, 0.187) !important;
+}
+
+.customZot-Purple {
+    background-color: #ffceff !important;
+}
+
+.custom-comment {
+    background-color: #e6f7ff; /* светло-голубой фон для личных комментариев */
+    border: 1px solid #91d5ff; /* рамка голубого оттенка */
+    padding: 10px 15px;
+    margin: 12px 0;
+    border-radius: 4px;
+}
+
+.comment-label {
+    font-weight: bold;
+    margin-bottom: 5px;
+    color: #084d6e;
+}
+
+.comment-text {
+    margin: 0;
+    font-style: normal;
+}

@@ -1,0 +1,54 @@
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Test binary, built with `go test -c`
+*.test
+
+# Output of the go coverage tool, specifically when used with LiteIDE
+*.out
+
+# Directories
+/bin/
+/pkg/
+
+# Go modules
+# Uncomment the following line if you want to ignore the vendor directory
+# /vendor/
+
+# IDE and Editor directories and files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS generated files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Logs
+*.log
+
+# Environment variables
+.env
+.env.*
+
+# Coverage files
+coverage.out
+
+# Other temporary files
+*.tmp
+*.swp
+*.swo
+
+# Lock files
+go.sum
+
+# Untracked files
+coverage.html
+yaml_manager
